@@ -1,0 +1,142 @@
+[
+  {
+    "date": "01-02-2026",
+    "description": "UPI/DR/URBAN GROCERS POWAI VPA urbangrocers@okaxis UTR 610112100111",
+    "deposit": "",
+    "withdrawal": "1126.40",
+    "balance": "30715.70"
+  },
+  {
+    "date": "03-02-2026",
+    "description": "NEFT CR PAYROLL FEB 2026 SKYLINE HEALTH SYSTEMS UTR N441210090021",
+    "deposit": "92000.00",
+    "withdrawal": "",
+    "balance": "122715.70"
+  },
+  {
+    "date": "04-02-2026",
+    "description": "UPI/DR/HOUSE OF DOSA VPA houseofdosa@okicici UTR 610412101876",
+    "deposit": "",
+    "withdrawal": "284.00",
+    "balance": "122431.70"
+  },
+  {
+    "date": "05-02-2026",
+    "description": "ACH/DR/CARD BILL AUTOPAY MERIDIAN VISA SIGNATURE REF AUTOPAY 100221",
+    "deposit": "",
+    "withdrawal": "21432.20",
+    "balance": "100999.50"
+  },
+  {
+    "date": "10-02-2026",
+    "description": "POS/DR/BOOKHUB ONLINE CARD XX1067 AUTH 920144",
+    "deposit": "",
+    "withdrawal": "1845.00",
+    "balance": "99154.50"
+  },
+  {
+    "date": "11-02-2026",
+    "description": "IMPS/DR/POWERGRID BILLPAY CUSTOMER ID 00384211 RRN 611112103760",
+    "deposit": "",
+    "withdrawal": "3102.00",
+    "balance": "96052.50"
+  },
+  {
+    "date": "16-02-2026",
+    "description": "UPI/DR/METRO CARD RELOAD VPA metrorail@oksbi UTR 611612109001",
+    "deposit": "",
+    "withdrawal": "500.00",
+    "balance": "95552.50"
+  },
+  {
+    "date": "21-02-2026",
+    "description": "NEFT/CR/TRAVEL REIMBURSEMENT SKYLINE HEALTH SYSTEMS UTR N441210190112",
+    "deposit": "4780.00",
+    "withdrawal": "",
+    "balance": "100332.50"
+  },
+  {
+    "date": "24-02-2026",
+    "description": "ATM/DR/CASH WITHDRAWAL HIRANANDANI ATM 04 TXN 1067240241",
+    "deposit": "",
+    "withdrawal": "10000.00",
+    "balance": "90332.50"
+  },
+  {
+    "date": "27-02-2026",
+    "description": "UPI/DR/RENT SPLIT TRANSFER VPA roomshare@okhdfc UTR 612712110451",
+    "deposit": "",
+    "withdrawal": "21428.00",
+    "balance": "68904.50"
+  },
+  {
+    "date": "02-03-2026",
+    "description": "NEFT CR PAYROLL MAR 2026 SKYLINE HEALTH SYSTEMS UTR N441310090044",
+    "deposit": "92000.00",
+    "withdrawal": "",
+    "balance": "160904.50"
+  },
+  {
+    "date": "03-03-2026",
+    "description": "UPI/DR/APARTMENT RENT VPA lessor@okhdfc UTR 620312000221",
+    "deposit": "",
+    "withdrawal": "28500.00",
+    "balance": "132404.50"
+  },
+  {
+    "date": "05-03-2026",
+    "description": "POS/DR/FINE FOODS MARKET CARD XX1067 AUTH 921108",
+    "deposit": "",
+    "withdrawal": "1842.00",
+    "balance": "130562.50"
+  },
+  {
+    "date": "07-03-2026",
+    "description": "UPI/DR/CLOUD KITCHEN DINNER VPA cloudkitchen@okicici UTR 620712001305",
+    "deposit": "",
+    "withdrawal": "612.40",
+    "balance": "129950.10"
+  },
+  {
+    "date": "09-03-2026",
+    "description": "IMPS/DR/ELECTRICITY BILLPAY CUSTOMER ID 8842012 RRN 620912001882",
+    "deposit": "",
+    "withdrawal": "2978.00",
+    "balance": "126972.10"
+  },
+  {
+    "date": "12-03-2026",
+    "description": "POS/DR/BOOKLOFT STORE CARD XX1067 AUTH 931442",
+    "deposit": "",
+    "withdrawal": "1230.00",
+    "balance": "125742.10"
+  },
+  {
+    "date": "15-03-2026",
+    "description": "NEFT/CR/TRAINING REIMBURSEMENT SKYLINE HEALTH SYSTEMS UTR N441315190554",
+    "deposit": "3650.00",
+    "withdrawal": "",
+    "balance": "129392.10"
+  },
+  {
+    "date": "19-03-2026",
+    "description": "UPI/DR/ESSENCE WELLNESS VPA essence@oksbi UTR 621912004108",
+    "deposit": "",
+    "withdrawal": "980.00",
+    "balance": "128412.10"
+  },
+  {
+    "date": "24-03-2026",
+    "description": "ATM/DR/CASH WITHDRAWAL POWAI GALLERIA ATM 02 TXN 1067240324",
+    "deposit": "",
+    "withdrawal": "8000.00",
+    "balance": "120412.10"
+  },
+  {
+    "date": "29-03-2026",
+    "description": "SIP/DR/FLEXI CAP FUND FOLIO 3108842 AUTO DEBIT REF 99121",
+    "deposit": "",
+    "withdrawal": "15000.00",
+    "balance": "105412.10"
+  }
+]

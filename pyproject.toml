@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stmtflow"
+version = "0.2.0"
+description = "Scalable, self-verifying extraction of transactions from digital PDF bank statements"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = ["pdfplumber>=0.11"]
+
+[project.optional-dependencies]
+dev = ["pytest", "reportlab", "pypdf"]
+
+[project.scripts]
+stmtflow = "stmtflow.__main__:main"
+
+[tool.setuptools]
+packages = ["stmtflow"]

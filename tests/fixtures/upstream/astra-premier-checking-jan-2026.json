@@ -1,0 +1,72 @@
+[
+  {
+    "date": "03-01-2026",
+    "description": "NEFT SALARY CREDIT JAN 2026 ACME ANALYTICS PRIVATE LTD UTR N345601230198",
+    "deposit": "120000.00",
+    "withdrawal": "",
+    "balance": "204913.55"
+  },
+  {
+    "date": "04-01-2026",
+    "description": "UPI/DR/FRESHMART INDIRANAGAR VPA freshmart@okicici UTR 600412309876",
+    "deposit": "",
+    "withdrawal": "2164.75",
+    "balance": "202748.80"
+  },
+  {
+    "date": "05-01-2026",
+    "description": "ACH/DR/HOME RENT JANUARY BENEFICIARY S K PRADHAN REF MANDATE 90482011",
+    "deposit": "",
+    "withdrawal": "38000.00",
+    "balance": "164748.80"
+  },
+  {
+    "date": "08-01-2026",
+    "description": "IMPS/DR/CITYCAB MOBILITY MOBILE 98XXXXXX41 RRN 600812340210",
+    "deposit": "",
+    "withdrawal": "486.00",
+    "balance": "164262.80"
+  },
+  {
+    "date": "09-01-2026",
+    "description": "POS/DR/THE READING ROOM CARD XX4821 AUTH 445921",
+    "deposit": "",
+    "withdrawal": "1249.00",
+    "balance": "163013.80"
+  },
+  {
+    "date": "12-01-2026",
+    "description": "UPI/DR/BLUEBOTTLE COFFEE VPA bluebottle@oksbi UTR 601212347888",
+    "deposit": "",
+    "withdrawal": "372.00",
+    "balance": "162641.80"
+  },
+  {
+    "date": "17-01-2026",
+    "description": "NEFT/CR/FREELANCE PROJECT CLIENT NORTHBRIDGE STUDIO UTR N348800443210",
+    "deposit": "18750.00",
+    "withdrawal": "",
+    "balance": "181391.80"
+  },
+  {
+    "date": "21-01-2026",
+    "description": "UPI/DR/BESANT TECH PARKING VPA parking@okhdfc UTR 602112349901",
+    "deposit": "",
+    "withdrawal": "120.00",
+    "balance": "181271.80"
+  },
+  {
+    "date": "24-01-2026",
+    "description": "ATM/DR/CASH WITHDRAWAL INDIRANAGAR 100 FT ROAD TXN 4821042017",
+    "deposit": "",
+    "withdrawal": "5000.00",
+    "balance": "176271.80"
+  },
+  {
+    "date": "31-01-2026",
+    "description": "SIP/DR/INDEX FUND MANDATE FOLIO 1842205 AUTO DEBIT REF 73190",
+    "deposit": "",
+    "withdrawal": "77028.81",
+    "balance": "99242.99"
+  }
+]

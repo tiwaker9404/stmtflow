@@ -1,0 +1,170 @@
+[
+  {
+    "date": "02-03-2026",
+    "description": "RTGS/CR/CLIENT MILESTONE 02 AURELIA RETAIL GROUP UTR H20260302001",
+    "deposit": "180000.00",
+    "withdrawal": "",
+    "balance": "428510.44"
+  },
+  {
+    "date": "03-03-2026",
+    "description": "NEFT/DR/STUDIO RENT MARCH ORBIT COMMERCIAL SPACES UTR N20260303088",
+    "deposit": "",
+    "withdrawal": "68000.00",
+    "balance": "360510.44"
+  },
+  {
+    "date": "07-03-2026",
+    "description": "UPI/DR/ADOBE CREATIVE CLOUD VPA adobebilling@okbiz UTR 620712000114",
+    "deposit": "",
+    "withdrawal": "5999.00",
+    "balance": "354511.44"
+  },
+  {
+    "date": "11-03-2026",
+    "description": "ACH/DR/TEAM PAYROLL RUN PINEFRAME STAFF SALARY REF PAYRUN 2026-03",
+    "deposit": "",
+    "withdrawal": "121500.00",
+    "balance": "233011.44"
+  },
+  {
+    "date": "15-03-2026",
+    "description": "IMPS/DR/PRINTWORKS SUPPLIES MOBILE 99XXXXXX60 RRN 621512001909",
+    "deposit": "",
+    "withdrawal": "8423.15",
+    "balance": "224588.29"
+  },
+  {
+    "date": "18-03-2026",
+    "description": "NEFT/CR/WEBSITE RETAINER VISTA HOTELS INDIA UTR N20260318110",
+    "deposit": "95000.00",
+    "withdrawal": "",
+    "balance": "319588.29"
+  },
+  {
+    "date": "22-03-2026",
+    "description": "POS/DR/COWORKING DAY PASS CARD XX7725 AUTH 541120",
+    "deposit": "",
+    "withdrawal": "2600.00",
+    "balance": "316988.29"
+  },
+  {
+    "date": "28-03-2026",
+    "description": "UPI/DR/CLIENT DINNER EXPENSE VPA bellevue@okaxis UTR 622812004470",
+    "deposit": "",
+    "withdrawal": "2000.00",
+    "balance": "314988.29"
+  },
+  {
+    "date": "01-04-2026",
+    "description": "RTGS/CR/CLIENT PHASE 02 AURELIA RETAIL GROUP UTR H20260401011",
+    "deposit": "210000.00",
+    "withdrawal": "",
+    "balance": "524988.29"
+  },
+  {
+    "date": "03-04-2026",
+    "description": "NEFT/DR/STUDIO RENT APRIL ORBIT COMMERCIAL SPACES UTR N20260403082",
+    "deposit": "",
+    "withdrawal": "68000.00",
+    "balance": "456988.29"
+  },
+  {
+    "date": "05-04-2026",
+    "description": "UPI/DR/SAAS BILLING STACK VPA toolsuite@okbiz UTR 630512009114",
+    "deposit": "",
+    "withdrawal": "12480.00",
+    "balance": "444508.29"
+  },
+  {
+    "date": "08-04-2026",
+    "description": "ACH/DR/CONTRACTOR PAYOUT DESIGN OPERATIONS TEAM REF APR-PAYOUT-08",
+    "deposit": "",
+    "withdrawal": "84000.00",
+    "balance": "360508.29"
+  },
+  {
+    "date": "12-04-2026",
+    "description": "NEFT/CR/APP SUPPORT RETAINER VISTA HOTELS INDIA UTR N20260412151",
+    "deposit": "95000.00",
+    "withdrawal": "",
+    "balance": "455508.29"
+  },
+  {
+    "date": "16-04-2026",
+    "description": "POS/DR/HARDWARE PROCUREMENT CARD XX7725 AUTH 611228",
+    "deposit": "",
+    "withdrawal": "18920.44",
+    "balance": "436587.85"
+  },
+  {
+    "date": "19-04-2026",
+    "description": "ATM/DR/PETTY CASH WITHDRAWAL BANJARA HILLS ATM 03 TXN 7725190419",
+    "deposit": "",
+    "withdrawal": "5000.00",
+    "balance": "431587.85"
+  },
+  {
+    "date": "24-04-2026",
+    "description": "RTGS/CR/CONSULTING INVOICE HELIOS COMMERCE LTD UTR H20260424022",
+    "deposit": "130000.00",
+    "withdrawal": "",
+    "balance": "561587.85"
+  },
+  {
+    "date": "29-04-2026",
+    "description": "NEFT/DR/ADVANCE TAX PAYMENT CBDT E-TAX PORTAL UTR N20260429191",
+    "deposit": "",
+    "withdrawal": "96500.00",
+    "balance": "465087.85"
+  },
+  {
+    "date": "02-05-2026",
+    "description": "RTGS/CR/CLIENT ADVANCE MAY NOVA LIVING SPACES UTR H20260502005",
+    "deposit": "175000.00",
+    "withdrawal": "",
+    "balance": "640087.85"
+  },
+  {
+    "date": "05-05-2026",
+    "description": "ACH/DR/TEAM PAYROLL RUN PINEFRAME STAFF SALARY REF PAYRUN 2026-05",
+    "deposit": "",
+    "withdrawal": "121500.00",
+    "balance": "518587.85"
+  },
+  {
+    "date": "09-05-2026",
+    "description": "POS/DR/COWORKING ANNUAL PASS CARD XX7725 AUTH 621901",
+    "deposit": "",
+    "withdrawal": "14220.00",
+    "balance": "504367.85"
+  },
+  {
+    "date": "14-05-2026",
+    "description": "NEFT/CR/WEBSITE RETAINER MAY VISTA HOTELS INDIA UTR N20260514109",
+    "deposit": "95000.00",
+    "withdrawal": "",
+    "balance": "599367.85"
+  },
+  {
+    "date": "20-05-2026",
+    "description": "IMPS/DR/PRINT VENDOR SETTLEMENT MOBILE 99XXXXXX60 RRN 632012011904",
+    "deposit": "",
+    "withdrawal": "7843.56",
+    "balance": "591524.29"
+  },
+  {
+    "date": "25-05-2026",
+    "description": "NEFT/CR/TRAVEL REIMBURSEMENT CLIENT EVENT SETTLEMENT UTR N20260525146",
+    "deposit": "12100.00",
+    "withdrawal": "",
+    "balance": "603624.29"
+  },
+  {
+    "date": "30-05-2026",
+    "description": "UPI/DR/CLIENT ENTERTAINMENT VPA bistro@okaxis UTR 633012014440",
+    "deposit": "",
+    "withdrawal": "6250.00",
+    "balance": "597374.29"
+  }
+]
