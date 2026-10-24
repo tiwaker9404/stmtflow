@@ -1,4 +1,4 @@
-# stmtflow
+# stmtflow: Bank-statement extraction with built-in validation
 
 Extract transactions from digital PDF bank statements, and **prove each result is right before anyone relies on it**.
 
